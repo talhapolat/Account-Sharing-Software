@@ -1,0 +1,10 @@
+.table td,
+.table th,
+.table tr {
+    border-top: 1px solid #2d2f31;
+}
+
+.card-body a {
+    text-decoration: none !important;
+    color: grey;
+}
